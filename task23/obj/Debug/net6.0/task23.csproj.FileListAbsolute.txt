@@ -1,0 +1,15 @@
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\bin\Debug\net6.0\task23.exe
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\bin\Debug\net6.0\task23.deps.json
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\bin\Debug\net6.0\task23.dll
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\bin\Debug\net6.0\task23.pdb
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\obj\Debug\net6.0\task23.dll
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\obj\Debug\net6.0\refint\task23.dll
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\obj\Debug\net6.0\task23.pdb
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar3\task23\obj\Debug\net6.0\ref\task23.dll
